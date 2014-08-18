@@ -1,7 +1,7 @@
 {
   "name": "PointerEvents",
-  "version": "0.0.0",
   "description": "Polyfill of the PointerEvents w3c spec",
+  "version": "0.2.4",
   "main": "Gruntfile.js",
   "directories": {
     "doc": "docs",
@@ -28,10 +28,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Polymer/PointerEvents.git"
+    "url": "https://github.com/tachyon1337/PointerEvents.git"
   },
   "author": "Polymer Authors",
   "license": "BSD",
-  "readmeFilename": "README.md",
-  "gitHead": "fc4d102296f7c8c5ed23d2dc8988920e685d050f"
+  "readmeFilename": "README.md"
 }

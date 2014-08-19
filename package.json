@@ -1,5 +1,5 @@
 {
-  "name": "PointerEvents",
+  "name": "Polymer-PointerEvents",
   "description": "Polyfill of the PointerEvents w3c spec",
   "version": "0.2.4",
   "main": "Gruntfile.js",
